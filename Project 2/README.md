@@ -6,23 +6,8 @@
 
 ## 📌 Overview
 
-This repository is a detailed representation of a **Data Science and Machine Learning project** developed during my internship at **Infotact Solutions**. The project, titled **AI-Powered Task Management System**, focuses on designing and building a system that utilizes machine learning to predict and manage task execution efficiently in real-world work environments.
+This project is a detailed representation of a **Data Science and Machine Learning project 1** developed during my internship at **Infotact Solutions**. The project, titled **AI-Powered Task Management System**, focuses on designing and building a system that utilizes machine learning to predict and manage task execution efficiently in real-world work environments.
 
----
-
----
-
-![ABHISEK_PANDA INFOTACT  (2)](https://github.com/user-attachments/assets/d6071af2-1f1c-4799-8112-e34c6bae5dc0)
-![ABHISEK_PANDA INFOTACT  (1)](https://github.com/user-attachments/assets/22f00d6b-fb79-4006-a4b6-d888490db102)
-
-# Project
-
-![PROJECT_page-0001](https://github.com/user-attachments/assets/29bc4b8e-f152-4340-9ae4-dab725122331)
-![PROJECT_page-0002](https://github.com/user-attachments/assets/de977ba7-d33d-4152-8488-6bd9d43dc6ba)
-![PROJECT_page-0003](https://github.com/user-attachments/assets/583e7a82-fd39-4971-b397-ac6fb22edb5d)
-![PROJECT_page-0004](https://github.com/user-attachments/assets/044afda4-ccef-48e9-9a47-bd3ce312bef7)
-
----
 
 ---
 
@@ -160,20 +145,12 @@ Performance achieved:
 
 ---
 
-## 📜 Project Documents
-
-* [`PROJECT.pdf`](https://github.com/abhisek2004/Infotact_DS-ML/blob/main/PROJECT.pdf): Final report including results, graphs, model performance
-* [`PROJECT_INSTRUCTIONS.pdf`](https://github.com/abhisek2004/Infotact_DS-ML/blob/main/PROJECT_INSTRUCTIONS.pdf): Guidelines provided by Infotact Solutions
-* [`TRAINING.pdf`](https://github.com/abhisek2004/Infotact_DS-ML/blob/main/TRAINING.pdf): Topics and tools covered during internship
-
----
-
 ## 🧪 How to Run
 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/abhisek2004/Infotact_DS-ML.git
+   git clone https://github.com/snehal9962/Internship-Project/Project 1.git
    cd Infotact_DS-ML
    ```
 
